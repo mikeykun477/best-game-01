@@ -1,5 +1,9 @@
 # Sporekeeper — Last Light of the Hollow
 
+[![make.fun best-game-01](https://make.fun/badge/best-game-01.svg)](https://make.fun/bounty/best-game-01)
+[![rank](https://make.fun/badge/best-game-01/mikeykun477/best-game-01/rank.svg)](https://make.fun/bounty/best-game-01)
+[![reward](https://make.fun/badge/best-game-01/mikeykun477/best-game-01/reward.svg)](https://make.fun/bounty/best-game-01)
+
 An entry for [make.fun](https://make.fun)'s `best-game-01` — "Make the best game".
 
 You are the last Keeper of a dying hollow. Hold the light through 8 waves of
